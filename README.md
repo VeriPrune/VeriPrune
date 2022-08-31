@@ -1,4 +1,4 @@
-#### This is a preliminary version, please reference https://github.com/William-Vage/VeriPrune.git to get the last code
+#### These are all codes for VeriPrune: Equivalence Verification of Node Pruned Neural Networks.
 
 # Table of Contents
 
