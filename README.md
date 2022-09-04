@@ -2,9 +2,9 @@
 
 # Table of Contents
 
-3. [File Contents](#file-contents)
-4. [Tool Usage Documentation](#tool-usage-documentation)
-5. [Running the Experiments](#running-the-experiments)
+1. [File Contents](#file-contents)
+2. [Tool Usage Documentation](#tool-usage-documentation)
+3. [Running the Experiments](#running-the-experiments)
 
 
 
